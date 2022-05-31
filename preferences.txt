@@ -1,0 +1,5 @@
+movie Shutter Island
+series Breaking Bad
+food doshirak
+season winter
+country USA
