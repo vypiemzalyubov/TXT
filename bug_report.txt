@@ -6,4 +6,4 @@ AR: There is no 'Expand' button in the 'About Dialog' window
 ER: the 'Expand' button is implemented in the 'About Dialog' window
 severity: minor
 priority: low
-attachments: file.png
+attachments: file.raw
