@@ -1,0 +1,4 @@
+name Nilolaev Dmitriy Ivanovich
+age 31
+pets 1
+salary three hundred bucks
